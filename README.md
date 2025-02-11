@@ -397,7 +397,7 @@ The script implements rate limiting to avoid overwhelming the API. Default setti
 
 ## Acknowledgments
 
-- [Quran.com API](https://quran.api-docs.io/v4) for providing the data
+- [Quran.com API](https://api-docs.quran.com/docs/category/quran.com-api) for providing the data
 - Translation resources:
   - MS (ID: 39): Abdullah Muhammad Basmeih - Malay translation
   - EN (ID: 131): Dr. Mustafa Khattab, The Clear Quran - English translation
